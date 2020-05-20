@@ -1,0 +1,5 @@
+# 17_powers.py
+a = 2
+b = 3
+
+print(f"{a}^{b} = {a**b}")

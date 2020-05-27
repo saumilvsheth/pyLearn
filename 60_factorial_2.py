@@ -11,6 +11,7 @@ for i in range(n, 0, -1):
     factorial = factorial * i
 
 print(f"{n}! = {factorial}")
+
 """
 Iteration   i       factorial
 ------------------------------
